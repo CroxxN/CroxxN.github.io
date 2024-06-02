@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on CroxxN</title>
+    <link>http://localhost:1313/abouts/</link>
+    <description>Recent content in Abouts on CroxxN</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 23:19:29 +0545</lastBuildDate>
+    <atom:link href="http://localhost:1313/abouts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abouts</title>
+      <link>http://localhost:1313/abouts/abouts/</link>
+      <pubDate>Sun, 02 Jun 2024 23:19:29 +0545</pubDate>
+      <guid>http://localhost:1313/abouts/abouts/</guid>
+      <description>Hey how are you but then</description>
+    </item>
+  </channel>
+</rss>
