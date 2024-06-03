@@ -6,14 +6,15 @@
 <div class="posts">
     {{ range .Paginator.Pages }}
         <div class="project">
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <a href="{{ .RelPermalink }}"><h1>{{ .Title }}</h1></a>
             <p>
                 {{ if .Params.featuredImage }}
                     <img src="{{ .Params.featuredImage }}"><br>
                 {{ end }}
-                {{ .Summary }}
+                {{ .RawContent | truncate 500 | markdownify }}
             </p>
         </div>
+        <hr>
     {{ end }}
 </div>
 {{ end }}

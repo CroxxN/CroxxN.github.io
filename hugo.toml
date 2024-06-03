@@ -7,11 +7,11 @@ theme = 'poison'
     brand = "Brahma"                      # name of your site - appears in the sidebar
     remote_brand_image = 'https://github.com/CroxxN.png' # path to a remote file
     # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
-    description = "Engineering Student. Law, Systems Software, Philosophy, Literature, Languages, Culture. Playing Guitar, Flute, and Harmonica. 110 ibs bench PR." # Used as default meta description if not specified in front matter
+    description = "Engineering Student. Law, Systems Software, Philosophy, Literature, Languages, Culture. Playing Guitar, Flute, and Harmonica. 110 ibs bench PR. CEO @saalik" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
-    front_page_content = ["posts", "projects"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    front_page_content = ["posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
     # Menu dict keys:
@@ -94,3 +94,6 @@ theme = 'poison'
 [taxonomies]
     series = 'series'
     tags = 'tags'
+[services]
+  [services.googleAnalytics]
+    ID = 'G-B1QC8BHXKX'
