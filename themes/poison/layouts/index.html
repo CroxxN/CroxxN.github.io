@@ -7,14 +7,17 @@
         {{ if or (.Site.Params.noSummary) (.Params.noSummary) }}
         {{ .Content }}
         {{ else }}
-        {{ .Summary }}
+        <div class="summary">
+        {{ .RawContent | truncate 500 | markdownify }} <!--Using .Summary doesn't render markdown properly-->
         {{ if .Truncated }}
+        </div>
         <div class="read-more-link">
             <a href="{{ .RelPermalink }}">Read More…</a>
         </div>
         {{ end }}
         {{ end }}
     </article>
+    <hr>
     {{- end }}
 </div>
 {{ partial "pagination.html" . }}

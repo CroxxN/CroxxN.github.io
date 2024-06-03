@@ -1,0 +1,115 @@
+@media only screen and (min-width: 768px) {
+  .sidebar{
+    width: 19rem;
+    scrollbar-width: thin;
+    scrollbar-color: #1e1e28 #444040;
+    border-radius: 10px;
+  }
+  .sidebar::-webkit-scrollbar-thumb {
+    border-radius: 100px;
+  }
+  .sidebar::-webkit-scrollbar-track {
+    border-radius: 100px;
+  }
+}
+
+.lead{
+  font-size: 1rem;
+}
+
+.sidebar-nav{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.5rem;
+}
+
+.socials{
+  display: flex;
+  justify-content: space-between;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: "Abril Fatface", serif;
+  font-weight: bold;
+  text-rendering: geometricPrecision;
+  transform: skewY(-2deg) translate(-1rem, 0rem);
+  transform-origin: top;
+  font-style: italic;
+  text-decoration-line: underline;
+  text-decoration-color: #b12cd1;
+  text-underline-offset: 4%;
+}
+
+h2, h3, h4, h5, h6{
+  
+  margin-bottom: 1.25em;
+}
+
+.headline{
+    transform: skewY(-2deg) translate(-1rem, 0rem);
+  font-style: italic;
+  transform-origin: top;
+}
+
+.info {
+  margin-bottom: 0.75em;
+}
+::-moz-selection { 
+  background-color: #444
+}
+
+::selection {
+
+  background-color: #444
+}
+
+p a {
+  
+    text-decoration: underline;
+    text-decoration-color: #b12cd1;
+    text-underline-offset: 15%;
+    text-decoration-thickness: 15%;
+    color: var(--text-color);
+  }
+
+a:hover{
+    color: white;
+    text-decoration-color: white;
+}
+
+h1:has(a):hover,h2:has(a):hover,h3:has(a):hover,h4:has(a):hover,h5:has(a):hover,h6:has(a):hover {
+    color: white;
+    text-decoration-color: white
+}
+a h1:hover{
+  color: white;
+  text-decoration-color: white
+}
+
+.tags li a{
+  background-color: transparent;
+  color: #e579ff;
+}
+
+.tags li a:hover{
+  color: white;
+}
+
+.sidebar hr{
+  margin-bottom: 0;
+}
+.sidebar {
+  overflow-y: hidden;
+}
+.footnote {
+  margin-bottom: 0;
+  
+}
+.summary p{
+  mask-image: linear-gradient(to bottom, black 20%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 20%, transparent 100%);
+}
+
+.read-more-link a{
+  color: #b12cd1
+}

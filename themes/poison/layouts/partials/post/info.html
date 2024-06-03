@@ -10,7 +10,7 @@
         {{ .Date.Format "January 2, 2006" }}
       </time>
       {{ end }}
-      <span> - </span>
+      <span> • </span>
       <span class="reading-time">
         {{ if gt .ReadingTime 1 }}
           {{ .Scratch.Set "readingTime" "mins" }}
@@ -20,13 +20,20 @@
 
         <span>{{ .ReadingTime }} {{ .Scratch.Get "readingTime" }} read</span>
       </span>
+      <span> • </span>
+      <span class="reading-time word-count">
+
+        <span>{{ .FuzzyWordCount }}  words</span>
+      </span>
+      <span> • </span>
+
     </div>
 
     {{ if .Params.tags }}
     <ul class="tags">
       {{ range .Params.tags }}
       <li class="tag-{{ . }}">
-        <a href="{{ "tags/" | absLangURL }}{{ . | urlize }}">{{ . }}</a>
+        <a href="{{ "tags/" | absLangURL }}{{ . | urlize }}">#{{ . }}</a>
       </li>
       {{ end }}
     </ul>

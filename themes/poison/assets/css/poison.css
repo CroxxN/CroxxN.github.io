@@ -71,7 +71,8 @@ h1, h2, h3, h4, h5, strong {
 }
 .content code {
     color: var(--code-color);
-    background-color: var(--code-background-color) !important;
+    background-color: #2a232c !important;
+    border-radius: 7px;
 }
 .content a code{
     color: var(--link-color);
