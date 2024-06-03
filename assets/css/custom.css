@@ -71,7 +71,15 @@ p a {
     text-decoration-thickness: 15%;
     color: var(--text-color);
   }
-
+.title a {
+    font-style: italics;
+    font-family: 'Abril Fatface', serif;
+    text-decoration: underline;
+    text-decoration-color: #b12cd1;
+    text-underline-offset: 15%;
+    text-decoration-thickness: 15%;
+    color: var(--text-color);
+}
 a:hover{
     color: white;
     text-decoration-color: white;
@@ -105,7 +113,7 @@ a h1:hover{
   margin-bottom: 0;
   
 }
-.summary p{
+.summary > *{
   mask-image: linear-gradient(to bottom, black 20%, transparent 100%);
   -webkit-mask-image: linear-gradient(to bottom, black 20%, transparent 100%);
 }
