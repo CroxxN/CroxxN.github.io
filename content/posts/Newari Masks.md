@@ -5,14 +5,32 @@ draft = false
 tags = ["newari", "culture", "mask"]
 +++
 
-## Emergence and Overview
 
 ### Summary
-This general introduction serves as a primer to further analysis and forms a solid foundation by providing general masquerade tradition in Nepal and the greater Himalayan region. Masks have a very long history, spanning multiple culture and tradition. Masks are seemed to have emerged originally in native Shamanism, and then gradually assimilated into high culture. In Nepal too, masks have different purpose. Classical masks represent deities and are used to enact religious mythologies, such as the *Mahabharata* and the *Ramayana*. Masks are village myths are however used for local dances and generally symbolize local folk-takes. Shaman masks have existed in Nepal from the Tharu community.
- 
-[[#^ea777c|Demons and Deities: Mask of the Himalayas]]
+This general introduction serves as a primer for further analysis and forms a solid foundation by providing general introduction to masquerade tradition in Nepal and the greater Himalayan region. Masks have a very long history, spanning multiple culture and tradition. Masks seems to have emerged originally in native Shamanism and then gradually assimilated into high culture. In Nepal too, masks play a critical role in spiritual performance and religious mystery. Furthermore, different masks have different purpose: Classical masks represent deities and are used to enact religious mythologies, such as the *Mahabharata* and the *Ramayana*. Village masks are however used for local dances and generally symbolize local folk-takes. Shaman masks have existed in Nepal from the Tharu community.
+
+## Emergence and Overview
+
+- - -
+
+## Table of Contents 
+- [Emergence and Overview](#emergence-and-overview)
+  - [Summary](#summary)
+  - [Overview](#overview)
+    - [important](#important)
+  - [Primitive-Shamanic Masks](#primitive-shamanic-masks)
+    - [General Description](#general-description)
+    - [Roots and Origination](#roots-and-origination)
+  - [Classical & Village masks](#classical-village-masks)
+- [Religious Drama](#religious-drama)
+  - [Summary](#summary)
+  - [Overview](#overview)
+- [To Read Further](#to-read-further)
+
+- - -
 
 ### Overview
+==Demons and Deities: Mask of the Himalayas [^1]==
 1) Imagery of Himalayan mask tradition is derived from [[Shamanism]], village myths, folk-tales and [[Buddhism]].
 2) The ubiquity of masking tradition suggest a deep and ancient root.
 3) Masks are divided into three categories based on its purpose and origin.
@@ -84,7 +102,7 @@ These two masks portray the striking similarity between two wildly different cul
 6) The common theme of these dramas are fight between Gods (*dyah*) and Demons (Daitya) to establish (or re-establish) *[[Dharma]]*, with the end always portraying the victory of Gods over Demons.
 7) Newari Dances are linked to and originated from ancient secret tradition.
 
-([[From_ritual_to_theatre.Newaa_Pragya,26-34p(G. Toffin).pdf#page=3&selection=20,52,24,20&color=note|From_ritual_to_theatre.Newaa_Pragya,26-34p(G. Toffin), p.28]])
+==*From_ritual_to_theatre (G. Toffin), p.28* [^2]==
 > I contend that most Newar religious dramas are closely linked to these ancient secret rituals and probably originate from them.
 
 8) *Dyah Pyakha* originate from old pre-modern category of theatrical drama which is reminiscent of medieval English plays, which were played near churches (similar to Dyah Pyakha which near performed near tantric temple.)
@@ -97,21 +115,22 @@ These two masks portray the striking similarity between two wildly different cul
 15) Weirdly enough, it’s not through personal process that the actors become deified, but through external adornment. Masks and bells, when adorned, fully transform a actor to a deity. However, that possession is *not* ecstatic: the performer is fully aware and conscious, but still believes himself to be possessed.
 16) Aesthetics are essential: they’re what convert a ritual to a more accessible theatrical performance.
 17) Furthermore, it seems every Newari (and Nepali for that matter) art takes its root in religion. Indeed, it’s extremely hard to separate religion from Newari art. Be it architecture, or sculpture, or masks; it’s a manifestation of divinity. God is Art, human it’s mortal interpreter.
-18) Though *Nepal Bhasa* lacks sufficiently sophisticated vocabulary to express the [[Subjectivity of Art|Aesthetic merit]] in a transcendental-metaphysical manner, it was nonetheless easy to discern masterpieces from second-rate art.
-## References
+18) Though *Nepal Bhasa* lacks sufficiently sophisticated vocabulary to express the Aesthetic merit in a transcendental-metaphysical manner, it was nonetheless easy to discern masterpieces from second-rate art.
 
 
-1) https://www.tmurrayarts.com/site-content/uploads/Thomas-Murray-Articles-Hali_1995_Demons_and_Deities_Masks_of_th.pdf ^ea777c
-2) https://www.himalaya-arch.com/images/Documentations/PDF/From_ritual_to_theatre.Newaa_Pragya,26-34p(G.%20Toffin).pdf ^1f2770
-3) https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000451PA/P001555/M018204/ET/1481101850P8M7TEXT.pdf
-4) https://elibrary.tucl.edu.np/bitstream/123456789/20248/2/chapter%20page.pdf
-5) https://ethnoflorence.wordpress.com/category/mask-nepal-newar-festivals/
 
-## [[To Read Further]] 
+## To Read Further
 
 1) Gerard Toffin - Newar culture and tradition scholar
 
-> ([[From_ritual_to_theatre.Newaa_Pragya,26-34p(G. Toffin).pdf#page=2&selection=133,0,146,36&color=note|From_ritual_to_theatre.Newaa_Pragya,26-34p(G. Toffin), p.27]])
-> I have already published a series of research papers on these multifaceted divine dances, grounded on ethnographical materials, especially on the Thecva Navadurgā troupe (1996), the Balami pyākhã dance group from Pharping (2011), as well as the Kārtik pyākhã troupe which officiates in Lalitpur (2012).
+2)  From_ritual_to_theatre (G. Toffin), p.27<br>
+I have already published a series of research papers on these multifaceted divine dances, grounded on ethnographical materials, especially on the Thecva Navadurgā troupe (1996), the Balami pyākhã dance group from Pharping (2011), as well as the Kārtik pyākhã troupe which officiates in Lalitpur (2012).
 
-Gérard Toffin. Ritual as Theatre: The Theatrical Dimension of the Indra Jâtrâ Festival (Nepal). Sucāruvādadeśika: A Festschrift Honoring Professor Theodore Riccardi, Himal Books, Nepal, pp.224-239, 2014, 978-9937-597-13-5. ⟨halshs-01694906⟩
+3) Gérard Toffin. Ritual as Theatre: The Theatrical Dimension of the Indra Jâtrâ Festival (Nepal). Sucāruvādadeśika: A Festschrift Honoring Professor Theodore Riccardi, Himal Books, Nepal, pp.224-239, 2014, 978-9937-597-13-5. ⟨halshs-01694906⟩
+
+
+[^1]: https://www.tmurrayarts.com/site-content/uploads/Thomas-Murray-Articles-Hali_1995_Demons_and_Deities_Masks_of_th.pdf
+[^2]: https://www.himalaya-arch.com/images/Documentations/PDF/From_ritual_to_theatre.Newaa_Pragya,26-34p(G.%20Toffin).pdf
+[^3]: https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000451PA/P001555/M018204/ET/1481101850P8M7TEXT.pdf
+[^4]: https://elibrary.tucl.edu.np/bitstream/123456789/20248/2/chapter%20page.pdf
+[^5]: https://ethnoflorence.wordpress.com/category/mask-nepal-newar-festivals/

@@ -97,3 +97,25 @@ theme = 'poison'
 [services]
   [services.googleAnalytics]
     ID = 'G-B1QC8BHXKX'
+
+[markup]
+    [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.insert]
+          enable = true
+        [markup.goldmark.extensions.extras.mark]
+          enable = true
+        [markup.goldmark.extensions.extras.subscript]
+          enable = true
+        [markup.goldmark.extensions.extras.superscript]
+          enable = true
+    [markup.goldmark.extensions.passthrough]
+        enable = true
+    [markup.goldmark.extensions]
+        footnote = true
+    [markup.goldmark.renderer]
+        unsafe = true
+    [markup.goldmark.renderHooks]
+        [markup.goldmark.renderHooks.link]
+            enableDefault = true
+    [markup.goldmark.renderHooks.image]
+            enableDefault = true
