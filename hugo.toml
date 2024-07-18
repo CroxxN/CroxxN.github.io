@@ -4,7 +4,7 @@ title = 'Sarad Gaihre'
 theme = 'poison'
 
 [params]
-    brand = "Brahma"                      # name of your site - appears in the sidebar
+    brand = "Sarad"                      # name of your site - appears in the sidebar
     remote_brand_image = 'https://github.com/CroxxN.png' # path to a remote file
     # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     description = "Engineering Student. Law, Systems Software, Philosophy, Literature, Languages, Culture. Playing Guitar, Flute, and Harmonica. 110 ibs bench PR. CEO @saalik" # Used as default meta description if not specified in front matter
