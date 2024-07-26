@@ -1,7 +1,7 @@
 +++
 title = 'Freudian View on Sexuality'
 date = 2024-06-03T14:07:22+05:45
-draft = false
+draft = true
 tags = ['sexuality']
 description = "This note tries to study Freud’s theory of sexuality, and tries to gain a new perspective on homosexuality and sexual inversion."
 +++
